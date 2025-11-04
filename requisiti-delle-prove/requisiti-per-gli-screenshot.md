@@ -15,7 +15,7 @@ Anche se una registrazione video completa è obbligatoria, la corretta acquisizi
 Per ogni controllo che si conclude con un ban, sono richiesti **due screenshot procedurali obbligatori**. Questi servono a stabilire una timeline inattaccabile dell'inizio del controllo.
 
 1. **Screenshot del "Freeze"**
-   * **Contenuto:** Deve essere catturato subito dopo aver "freezato" il player. Deve mostrare chiaramente la schermata di gioco con il messaggio di freeze e, se possibile, il timestamp del server.
+   * **Contenuto:** Deve essere catturato subito dopo aver "freezato" il player. Deve mostrare chiaramente la schermata di gioco con il messaggio di freeze e, se possibile, il timestamp del server, alternativamente il timestamp del computer dell'SSer.
    * **Scopo:** Fissa l'ora esatta in cui il player è stato fermato e l'indagine è iniziata.
 2. **Screenshot della Connessione Iniziale**
    * **Contenuto:** Deve essere catturato **immediatamente dopo** aver stabilito la connessione al PC del player (es. tramite AnyDesk). Deve mostrare la finestra del software di controllo remoto e l'orologio di sistema del player.
