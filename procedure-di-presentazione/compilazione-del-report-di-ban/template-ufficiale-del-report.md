@@ -4,8 +4,11 @@ icon: file-lines
 
 # Template Ufficiale del Report
 
-Ogni report di ban deve essere pubblicato sul canale Telegram designato (`Titanet | Ban Proofs`) e deve seguire **esattamente** questo formato. Copia e incolla il seguente template e compila ogni campo in modo accurato.\
-Non è richiesta allegare la clip video, questa verrà revisionata in seguito e verrà richiesta espressamente da un SS Mentor o SS Manager.
+## Template Consigliato per il Report di Ban
+
+Ogni report di ban dovrebbe seguire un formato standardizzato per garantire chiarezza, coerenza e una facile revisione. Di seguito è riportato un template consigliato che può essere adattato e utilizzato da qualsiasi team.
+
+L'utilizzo di un template comune assicura che tutte le informazioni necessarie siano sempre presenti e presentate in modo professionale.
 
 ```
 🖥️ Screensharer: [Il tuo nickname]
@@ -19,3 +22,12 @@ Non è richiesta allegare la clip video, questa verrà revisionata in seguito e 
 🗒️ Note (opzionale):
 [Inserire qui eventuali note aggiuntive]
 ```
+
+{% hint style="info" %}
+**Nota sulla compilazione:**
+
+* **Screensharer/Sospettato:** Inserire i nickname completi e corretti.
+* **Durata/Motivazione:** Attenersi alle linee guida sulle sanzioni definite dal proprio team.
+* **Prove:** Inserire un link a una galleria di immagini (es. Imgur) contenente tutti gli screenshot rilevanti e conformi ai requisiti.
+* **Note:** Utilizzare questo campo solo se ci sono dettagli cruciali non evidenti dalle prove che necessitano di essere spiegati.
+{% endhint %}
