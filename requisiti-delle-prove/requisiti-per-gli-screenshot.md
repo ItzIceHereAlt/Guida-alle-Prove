@@ -4,8 +4,6 @@ icon: camera-retro
 
 # Requisiti per gli Screenshot
 
-## Requisiti per gli Screenshot 📸
-
 Gli screenshot sono la prova visiva sintetica e immediata di un'infrazione. A differenza della registrazione video, che fornisce il contesto completo, gli screenshot evidenziano il momento esatto della scoperta e vengono utilizzati come prova principale nel report ufficiale del ban.
 
 Anche se una registrazione video completa è obbligatoria, la corretta acquisizione degli screenshot è altrettanto fondamentale per una documentazione chiara e rapida.
