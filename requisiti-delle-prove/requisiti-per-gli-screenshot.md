@@ -12,7 +12,7 @@ Anche se una registrazione video completa è obbligatoria, la corretta acquisizi
 
 #### Screenshot Obbligatori di Procedura
 
-Per ogni controllo che si conclude con un ban, sono richiesti **due (2) screenshot procedurali obbligatori**. Questi servono a stabilire una timeline inattaccabile dell'inizio del controllo.
+Per ogni controllo che si conclude con un ban, sono richiesti **due screenshot procedurali obbligatori**. Questi servono a stabilire una timeline inattaccabile dell'inizio del controllo.
 
 1. **Screenshot del "Freeze"**
    * **Contenuto:** Deve essere catturato subito dopo aver "freezato" il player. Deve mostrare chiaramente la schermata di gioco con il messaggio di freeze e, se possibile, il timestamp del server.
